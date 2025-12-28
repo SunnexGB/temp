@@ -4,6 +4,7 @@
       "collection_name": "Voices",
       "description": "Войс модули.",
       "author": "@fheta",
+      "meta_banner": "https://img.icons8.com/clouds/200/microphone.png",
       "modules_list": [
         "https://api.fixyres.com/module/qqshark/Modules/AudioConvertor.py",
         "https://api.fixyres.com/module/coddrago/modules/DelMessTools.py",
@@ -14,8 +15,9 @@
       "collection_name": "SQuotes",
       "description": "Модули с цитатами",
       "author": "@SunnexGB",
+      "meta_banner": "https://img.icons8.com/clouds/200/quote-left.png",
       "modules_list": [
-        "1dlm https://api.fixyres.com/module/hikariatama/host/quotes.py"
+        "https://api.fixyres.com/module/hikariatama/host/quotes.py"
       ]
     }
   ]
