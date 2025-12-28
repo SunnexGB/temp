@@ -1,0 +1,22 @@
+{
+  "user_collections": [
+    {
+      "collection_name": "Voices",
+      "description": "Войс модули.",
+      "author": "@fheta",
+      "modules_list": [
+        "https://api.fixyres.com/module/qqshark/Modules/AudioConvertor.py",
+        "https://api.fixyres.com/module/coddrago/modules/DelMessTools.py",
+        "https://api.fixyres.com/module/Ijidishurka/modules/voiceGirlsV4.py"
+      ]
+    },
+    {
+      "collection_name": "SQuotes",
+      "description": "Модули с цитатами",
+      "author": "@SunnexGB",
+      "modules_list": [
+        "1dlm https://api.fixyres.com/module/hikariatama/host/quotes.py"
+      ]
+    }
+  ]
+}
